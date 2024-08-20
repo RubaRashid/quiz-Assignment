@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Josefin-Sans-light;
+
+}
+
+.main-heading{
+    border-bottom: 2px solid black;
+}
+
+header{
+    height: 82px;
+    background-color: #fff;
+  
+}
+.main-section{
+    background-color: rgb(225, 234, 241);
+}
+.heading-main-page{
+    font-size: 3rem;
+}
+.link-text{
+    text-decoration: none;
+}
+.link-text:hover{
+    color: rgb(0, 0, 119);
+    text-decoration: underline;
+}
+.footer{
+    height: 110px;
+    background-color: #fff;
+}
